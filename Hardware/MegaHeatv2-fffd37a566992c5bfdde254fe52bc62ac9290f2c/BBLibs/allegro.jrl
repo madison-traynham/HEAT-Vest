@@ -1,0 +1,400 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Thu Mar 12 11:55:12 2015
+\t (00:00:02)         Host=MADISON-PC User=Madison Pid=3304 CPUs=4
+\t (00:00:02) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/conn3-pwr-pj102a.dra
+\i (00:00:02) trapsize 538
+\i (00:00:02) trapsize 529
+\i (00:00:02) trapsize 540
+\i (00:00:03) trapsize 550
+\i (00:00:03) trapsize 1077
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 29.72 79.28
+\i (00:00:04) trapsize 539
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -271.96 71.74
+\i (00:00:04) trapsize 269
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 24.33 63.12
+\i (00:00:04) trapsize 539
+\i (00:00:08) trapsize 1449
+\i (00:00:11) trapsize 550
+\i (00:00:35) save_as 
+\i (00:01:35) fillin "C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols\DC_Jack.dra"
+\i (00:01:35) cd "C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols"
+\t (00:01:36) Symbol 'dc_jack.psm' created.
+\i (00:01:39) create symbol 
+\i (00:01:43) fillin "dc_jack.psm"
+\t (00:01:43) Creating package symbol 'C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/dc_jack.psm'.
+\t (00:01:43) Starting Create symbol...
+\i (00:01:49) move 
+\t (00:01:49) Select element(s) to move.
+\i (00:01:50) prepopup 0.14 2.34
+\i (00:01:52) pick grid -287.14 -146.25
+\t (00:01:52) last pick:  -300.00  -100.00
+\i (00:01:57) padeditdb 
+\i (00:01:58) setwindow form.mini
+\i (00:01:58) FORM mini padlist 120X040SLOT 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) pick grid 310.54 -412.62
+\t (00:03:12) last pick:  300.00  -400.00
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 291.82 -389.51
+\i (00:03:12) trapsize 1026
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 1141.03 -129.61
+\i (00:03:12) trapsize 1026
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 1141.03 -129.61
+\i (00:03:12) trapsize 1026
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 1138.98 -129.61
+\i (00:03:12) trapsize 1026
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 1132.82 -113.18
+\i (00:03:12) trapsize 1026
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in 1026.08 36.66
+\i (00:03:12) trapsize 513
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in 284.02 36.66
+\i (00:03:12) trapsize 257
+\i (00:03:16) pick grid 409.75 256.82
+\t (00:03:16) last pick:  400.00  300.00
+\i (01:49:03) new 
+\e (01:49:03) Do you want to save the changes you made to C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/DC_Jack.dra?
+\i (01:49:06) fillin no 
+\i (01:49:34) newdrawfillin "RMCMO1.dra" "Package Symbol (Wizard)"
+\t (01:49:34)     Journal end - Thu Mar 12 13:44:44 2015
+
+\i (00:11:49) placementedit 
+\i (00:11:50) xhilite 
+\i (00:11:50) xname_flush 
+\i (00:11:50) done 
+\i (00:11:50) placementedit 
+\i (00:11:53) xdehilite 
+\i (00:11:53) xname_flush 
+\i (00:11:53) done 
+\i (00:11:53) placementedit 
+\i (00:11:53) xhilite 
+\i (00:11:53) xname_flush 
+\i (00:11:53) done 
+\i (00:11:53) placementedit 
+\i (00:11:57) xdehilite 
+\i (00:11:57) xname_flush 
+\i (00:11:57) done 
+\i (00:11:57) placementedit 
+\i (00:12:03) xhilite 
+\i (00:12:03) xname_flush 
+\i (00:12:03) done 
+\i (00:12:03) placementedit 
+\i (00:12:06) xdehilite 
+\i (00:12:06) xname_flush 
+\i (00:12:06) done 
+\i (00:12:06) placementedit 
+\i (00:12:06) xhilite 
+\i (00:12:06) xname_flush 
+\i (00:12:06) done 
+\i (00:12:06) placementedit 
+\i (00:12:09) xdehilite 
+\i (00:12:09) xname_flush 
+\i (00:12:09) done 
+\i (00:12:09) placementedit 
+\i (00:12:13) xhilite 
+\i (00:12:13) xname_flush 
+\i (00:12:13) done 
+\i (00:12:13) placementedit 
+\i (00:12:17) xdehilite 
+\i (00:12:17) xname_flush 
+\i (00:12:17) done 
+\i (00:12:17) placementedit 
+\i (00:12:18) xhilite 
+\i (00:12:18) xname_flush 
+\i (00:12:18) done 
+\i (00:12:18) placementedit 
+\i (00:12:28) xdehilite 
+\i (00:12:28) xname_flush 
+\i (00:12:28) done 
+\i (00:12:28) placementedit 
+\i (00:12:29) xhilite 
+\i (00:12:29) xname_flush 
+\i (00:12:29) done 
+\i (00:12:29) placementedit 
+\i (00:12:33) xdehilite 
+\i (00:12:33) xname_flush 
+\i (00:12:33) done 
+\i (00:12:33) placementedit 
+\i (00:12:33) xhilite 
+\i (00:12:33) xname_flush 
+\i (00:12:33) done 
+\i (00:12:33) placementedit 
+\i (00:12:37) xdehilite 
+\i (00:12:37) xname_flush 
+\i (00:12:37) done 
+\i (00:12:37) placementedit 
+\i (00:13:16) xhilite 
+\i (00:13:16) xname_flush 
+\i (00:13:16) done 
+\i (00:13:16) placementedit 
+\i (00:13:18) xdehilite 
+\i (00:13:18) xname_flush 
+\i (00:13:18) done 
+\i (00:13:18) placementedit 
+\i (00:13:21) xhilite 
+\i (00:13:21) xname_flush 
+\i (00:13:21) done 
+\i (00:13:21) placementedit 
+\i (00:13:22) xdehilite 
+\i (00:13:22) xname_flush 
+\i (00:13:22) done 
+\i (00:13:22) placementedit 
+\i (00:13:24) xhilite 
+\i (00:13:24) xname_flush 
+\i (00:13:24) done 
+\i (00:13:24) placementedit 
+\i (00:13:27) xdehilite 
+\i (00:13:27) xname_flush 
+\i (00:13:27) done 
+\i (00:13:27) placementedit 
+\i (00:13:28) xhilite 
+\i (00:13:28) xname_flush 
+\i (00:13:28) done 
+\i (00:13:28) placementedit 
+\i (00:13:39) xdehilite 
+\i (00:13:39) xname_flush 
+\i (00:13:39) done 
+\i (00:13:39) placementedit 
+\i (00:13:40) xhilite 
+\i (00:13:40) xname_flush 
+\i (00:13:40) done 
+\i (00:13:40) placementedit 
+\i (00:13:44) xdehilite 
+\i (00:13:45) xname_flush 
+\i (00:13:45) done 
+\i (00:13:45) placementedit 
+\i (00:13:52) xhilite 
+\i (00:13:52) xname_flush 
+\i (00:13:52) done 
+\i (00:13:52) placementedit 
+\i (00:13:58) xdehilite 
+\i (00:13:58) xname_flush 
+\i (00:13:58) done 
+\i (00:13:58) placementedit 
+\i (00:13:59) xhilite 
+\i (00:13:59) xname_flush 
+\i (00:13:59) done 
+\i (00:13:59) placementedit 
+\i (00:14:03) xdehilite 
+\i (00:14:03) xname_flush 
+\i (00:14:03) done 
+\i (00:14:03) placementedit 
+\i (00:14:03) xhilite 
+\i (00:14:03) xname_flush 
+\i (00:14:03) done 
+\i (00:14:03) placementedit 
+\i (00:14:06) xdehilite 
+\i (00:14:06) xname_flush 
+\i (00:14:06) done 
+\i (00:14:06) xhilite 
+\i (00:14:06) xname_flush 
+\i (00:14:06) done 
+\i (00:14:06) placementedit 
+\i (00:14:10) xdehilite 
+\i (00:14:10) xname_flush 
+\i (00:14:10) done 
+\i (00:14:10) placementedit 
+\i (00:14:12) xhilite 
+\i (00:14:12) xname_flush 
+\i (00:14:12) done 
+\i (00:14:12) placementedit 
+\i (00:14:16) xdehilite 
+\i (00:14:16) xname_flush 
+\i (00:14:16) done 
+\i (00:14:16) placementedit 
+\i (00:14:16) xhilite 
+\i (00:14:16) xname_flush 
+\i (00:14:16) done 
+\i (00:14:16) placementedit 
+\i (00:14:20) xdehilite 
+\i (00:14:20) xname_flush 
+\i (00:14:20) done 
+\i (00:14:20) placementedit 
+\i (00:14:20) xhilite 
+\i (00:14:20) xname_flush 
+\i (00:14:20) done 
+\i (00:14:20) placementedit 
+\i (00:14:23) xdehilite 
+\i (00:14:23) xname_flush 
+\i (00:14:23) done 
+\i (00:14:23) xhilite 
+\i (00:14:23) xname_flush 
+\i (00:14:23) done 
+\i (00:14:23) placementedit 
+\i (00:14:27) xdehilite 
+\i (00:14:27) xname_flush 
+\i (00:14:27) done 
+\i (00:14:27) placementedit 
+\i (00:14:32) xhilite 
+\i (00:14:32) xname_flush 
+\i (00:14:32) done 
+\i (00:14:32) placementedit 
+\i (00:14:38) xdehilite 
+\i (00:14:38) xname_flush 
+\i (00:14:38) done 
+\i (00:14:38) placementedit 
+\i (00:14:38) xhilite 
+\i (00:14:38) xname_flush 
+\i (00:14:38) done 
+\i (00:14:38) placementedit 
+\i (00:14:41) xdehilite 
+\i (00:14:41) xname_flush 
+\i (00:14:41) done 
+\i (00:14:41) placementedit 
+\i (00:14:42) xhilite 
+\i (00:14:42) xname_flush 
+\i (00:14:42) done 
+\i (00:14:42) placementedit 
+\i (00:14:47) xdehilite 
+\i (00:14:47) xname_flush 
+\i (00:14:47) done 
+\i (00:14:47) placementedit 
+\i (00:14:47) xhilite 
+\i (00:14:47) xname_flush 
+\i (00:14:47) done 
+\i (00:14:47) placementedit 
+\i (00:14:50) xdehilite 
+\i (00:14:50) xname_flush 
+\i (00:14:50) done 
+\i (00:14:50) placementedit 
+\i (00:14:53) xhilite 
+\i (00:14:53) xname_flush 
+\i (00:14:53) done 
+\i (00:14:53) placementedit 
+\i (00:14:57) xdehilite 
+\i (00:14:57) xname_flush 
+\i (00:14:57) done 
+\i (00:14:57) xhilite 
+\i (00:14:57) xname_flush 
+\i (00:14:57) done 
+\i (00:14:57) placementedit 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xhilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) placementedit 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xhilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) placementedit 
+\i (00:15:12) xdehilite 
+\i (00:15:12) xname_flush 
+\i (00:15:12) done 
+\i (00:15:12) placementedit 
+\i (00:15:23) xhilite 
+\i (00:15:23) xname_flush 
+\i (00:15:23) done 
+\i (00:15:23) placementedit 
+\i (00:15:50) xdehilite 
+\i (00:15:50) xname_flush 
+\i (00:15:50) done 
+\i (00:15:50) placementedit 
+\i (00:15:54) xhilite 
+\i (00:15:54) xname_flush 
+\i (00:15:54) done 
+\i (00:15:54) placementedit 
+\i (01:11:10) xdehilite 
+\i (01:11:10) xname_flush 
+\i (01:11:10) done 
+\i (01:11:10) xhilite 
+\i (01:11:10) xname_flush 
+\i (01:11:10) done 
+\i (01:11:10) placementedit 
+\i (01:11:19) xdehilite 
+\i (01:11:19) xname_flush 
+\i (01:11:19) done 
+\i (01:11:19) xhilite 
+\i (01:11:19) xname_flush 
+\i (01:11:19) done 
+\i (01:11:19) placementedit 
+\i (01:12:08) xhilite 
+\i (01:12:08) xname_flush 
+\i (01:12:08) done 
+\i (01:12:08) placementedit 
+\i (01:12:23) xdehilite 
+\i (01:12:23) xname_flush 
+\i (01:12:23) done 
+\i (01:12:23) placementedit 
+\i (01:12:26) xhilite 
+\i (01:12:26) xname_flush 
+\i (01:12:26) done 
+\i (01:12:26) placementedit 
+\i (01:12:27) xdehilite 
+\i (01:12:27) xname_flush 
+\i (01:12:27) done 
+\i (01:12:27) xhilite 
+\i (01:12:27) xname_flush 
+\i (01:12:27) done 
+\i (01:12:27) placementedit 
+\i (01:12:46) xdehilite 
+\i (01:12:46) xname_flush 
+\i (01:12:46) done 
+\i (01:12:46) xhilite 
+\i (01:12:46) xname_flush 
+\i (01:12:46) done 
+\i (01:12:46) placementedit 
+\i (01:13:17) xdehilite 
+\i (01:13:17) xname_flush 
+\i (01:13:17) done 
+\i (01:13:17) placementedit 
+\i (01:13:19) xhilite 
+\i (01:13:19) xname_flush 
+\i (01:13:19) done 
+\i (01:13:19) placementedit 
+\i (01:13:44) xdehilite 
+\i (01:13:44) xname_flush 
+\i (01:13:44) done 
+\i (01:13:44) placementedit 
+\i (01:13:47) xhilite 
+\i (01:13:47) xname_flush 
+\i (01:13:47) done 
+\i (01:13:47) placementedit 
+\i (01:13:47) xdehilite 
+\i (01:13:47) xname_flush 
+\i (01:13:47) done 
+\i (01:13:47) placementedit 
+\i (01:13:51) xhilite 
+\i (01:13:51) xname_flush 
+\i (01:13:51) done 
+\i (01:13:51) placementedit 
+\i (01:13:51) xdehilite 
+\i (01:13:51) xname_flush 
+\i (01:13:51) done 
+\i (01:13:51) xhilite 
+\i (01:13:51) xname_flush 
+\i (01:13:51) done 
+\i (01:13:51) placementedit 
+\i (01:14:10) trapsize 1756
+\i (01:14:10) trapsize 667
+\i (01:14:11) trapsize 1756
+\i (01:14:11) trapsize 667
+\i (01:14:13) new 
+\e (01:14:13) Do you want to save the changes you made to unnamed?
+\i (01:14:15) fillin no 
+\i (01:14:46) newdrawfillin "ICSP_Straight.dra" "Package Symbol (Wizard)"
+\t (01:14:46)     Journal end - Thu Mar 12 13:21:20 2015

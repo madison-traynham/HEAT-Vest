@@ -1,0 +1,105 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : BeagleBone_Black_RevB6_nologo.brd             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Mar 12 11:49:02 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ic_sn74lvc1g07dck_dck5_2p15x1p4.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_470_110w_5_0402_402_475k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_33_0402_0402_22.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_33_0402_0402_0.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/fer_180_200_0_sm-7351-ind-080_1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/conn_54819-0578_2_usb_a_sh_io_8.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/conn_rj45_mag_we_0_rj45-7499010.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/conn_hdmi_typed_conn19_hdmi_101.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_15k_116w_5_0402_402_15k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_15k_116w_5_0402_402_1_1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_100k_116w_1_0402_402_100.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_sm-7351-res-0402_240.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ic_am335x_zcz_am33xx_15x15_xam3.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/testpt1_tp60c33d_testpt1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/mini-usb-ab-socket_usb5mini_4sh.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_33_0402_0402_33.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_01uf_x5r_63v_200201__1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_475k_116w_1_0402_402_0d.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/mt47h256m8_7_bga96_t9_p8_9x14_m.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/470pf550vc0g0603_0_0402_47.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/microsd_conn_8_sd-micro-scha5b0.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_475k_116w_1_0402_402_15.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_10k_116w_1_0402_402_15k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ic_sn74lvc2g241_1_u_8_dcu_sn74l.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/osc_12mhz_13v_osc4_61x65ls_79x.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/dio_sr305_th_0_sod323_rb751v40.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_226k_116w_1_0402_402_27k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/sw_kt11p2jm_2_sw4smd_63x161ls_d.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/sw_kt11p2jm_1_sw4smd_63x161ls_d.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_100k_116w_1_0402_402_10_1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ind_22uh_26a_10_smd_2520_lqm.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/32ctq030to_1_tssop10_ip4283cz1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/hdr_46_f_2_01_01_header23x2_f.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ic_tda19988_hvqfn64_5_qfn64s9x9.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/hdr_10x2_cjtag_0_header10x2_smd.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/mem_mnand_2gb_bga153_p14_p5_11p.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/crys_24mhz_scc_0_xtal150smd_125.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/suntsuitemp25mhz_000520pf.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/mem_24lc32_sot23-5_sot23-5_24lc.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_01uf_x5r_63v_200201_40.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_10uf_x5r_10v_10_0402_402_.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_470pf_x7r_25v_10_0402_402_.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_100uf_tant_63v_3528-21_rd2.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/led_ltst-c150gkt_0_led_0603_dis.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/fer_180_200_0805_sm-7351-ind-08.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/header6_sip6_header6.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_470_110w_5_0402_402_470k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_470_110w_5_0402_402_280k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_10k_116w_1_0402_402_01.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_10k_116w_1_0402_402_101.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_1m_116w_1_0402_402_1m1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_100k_116w_1_0402_402_01.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ptc_rxef010_polysw200-5638-310_.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ic_sn74lvc1g06dck_0_dck5_2p15x1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/pwr_tps65217_2_u_48_rsl_tps6521.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/pwr_tlv70233dbv_0_so8-25x75_tl5.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/ic_sn74auc1g74_sop8_dct_sn74auc.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/tps2061_1_dgn-16x60_tps2051dg.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/crys_32_768khz_smd32_1_xtal4_12.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_100k_116w_1_0402_402_100k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_0_116w_1_0402_402_10k1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/100-110w-1-0603_4_402_101d.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_100_110w_5_0402_402_1001.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/100-110w-1-0603_4_402_1001.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_30pf_cog_50v_5_0402_402_30.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/lan8710qfn32_1_qfn32_5x5mm_ep3.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_0_116w_1_0402_402_01dn.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_475k_116w_1_0402_402_01.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_475k_116w_1_0402_402_10k.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_470_110w_5_0402_402_4705.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/mhole_mtgh200c125d_pl_mhole.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/testpt1_tp60c_smd_testpt1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/rn1907_smini6-f3-b_dmc56404.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_0402_100pf_cog_50v_402_15pf.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/power_jack_conn3-pwr-pj102a_pj-.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_1m_116w_1_0402_402_1m1__1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_121k_116w_1_0402_402_12.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_10uf_y5v_10v_10_0805_805_1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_0402_01uf_x5r_10v_402_002.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_47k_0402_402_4991.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_01_0805_805_10805.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_22uf_x5r_63v_10_0402_402.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_18pf_cog_50v_5_0402_402_18.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/cap_0001_x7r_50v_5_0402_402_0.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/fer_180_200_0_sm-7351-ind-0805_.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_10k_116w_1_0402_402_10k1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_475k_116w_1_0402_402_47.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/res_0_116w_1_0402_402_01.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/testpt1_tp1-8040_testpt1.txt': written successfully.
+Device file 'C:/Users/Madison/Desktop/MegaHeatv2/BBLibs/prot_tpd4s012_u_6_dry_tpd4s012.txt': written successfully.
+
+  Created device files: 90
+

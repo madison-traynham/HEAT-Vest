@@ -1,0 +1,1220 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-29-2015 at 20:23:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MEGAHEATV2';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BT1 'CR1220HOLDER_CR1220_CR1220HOLDE':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS147071@CREATED.CR1220HOLDER.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins147071@created.\cr1220holder.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins147071@created.\cr1220holder.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_0805RF_WV_12D':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS85330@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins85330@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins85330@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR NON-POL_0805RF_WV_1_1':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63835@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63835@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63835@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR NON-POL_0805RF_WV_1_2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63815@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63815@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63815@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR NON-POL_0805RF_WV_1_2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS64015@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins64015@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins64015@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR NON-POL_0805RF_WV_1_2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63587@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63587@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63587@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR NON-POL_0805RF_WV_1_2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63855@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63855@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63855@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR NON-POL_0805RF_WV_1_2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS64059@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins64059@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins64059@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR NON-POL_0805RF_WV_1_2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63735@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63735@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63735@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS140134@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins140134@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins140134@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C_1206RF_WV_12D_10U':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS98865@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins98865@discrete.\c.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins98865@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR NON-POL_0805RF_WV_1_4':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS98890@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins98890@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins98890@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR NON-POL_0805RF_WV_1_4':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS98906@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins98906@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins98906@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'C_RADCAP_47U':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS117727@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins117727@discrete.\c.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins117727@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS117711@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins117711@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins117711@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'C_RADCAP_47U':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS117747@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins117747@discrete.\c.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins117747@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPACITOR NON-POL_0805RF_WV_1_5':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118766@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118766@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118766@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118646@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118646@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118646@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS78251@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins78251@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins78251@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS73652@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins73652@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins73652@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPACITOR NON-POL_0805RF_WV_1_5':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS75043@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins75043@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins75043@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR NON-POL_0805RF_WV_12D':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS67517@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins67517@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins67517@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR NON-POL_0805RF_WV_12D':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS67533@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins67533@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins67533@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70262@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70262@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70262@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS74752@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins74752@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins74752@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118550@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118550@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118550@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAPACITOR NON-POL_0805RF_WV_1_1':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63963@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63963@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63963@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS78277@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins78277@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins78277@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_0805RF_WV_1_3':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS78303@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins78303@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins78303@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0805RF_WV_12D_0.1U':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS94726@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins94726@discrete.\c.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins94726@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_0805RF_WV_12D_10U/10V':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS96301@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins96301@discrete.\c.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins96301@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_0805RF_WV_12D_0.1U':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS96317@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins96317@discrete.\c.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins96317@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR NON-POL_0805RF_WV_1_1':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63795@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63795@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63795@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN1 'USD_USD_USD':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS95097@CREATED.USD.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins95097@created.\usd.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins95097@created.\usd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN3 'CONN PLUG 3_DC_JACK_DC21MMX_POW':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS117845@CONNECTOR.CONN PLUG 3.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins117845@connector.\conn plug 3.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins117845@connector.\conn plug 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN4 'USB_B MINI_USBBMINI_USB_B MINI':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS154457@CREATED.USB_B MINI.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins154457@created.\usb_b mini.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins154457@created.\usb_b mini.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_0805RF_WV_12D_RED':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS95860@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins95860@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins95860@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE_1206RF_WV_12D_CD1206-S015':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS68539@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins68539@discrete.\diode.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins68539@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_0805RF_WV_12D_RED':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS186611@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins186611@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins186611@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_0805RF_WV_12D_LED':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS197426@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins197426@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins197426@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_0805RF_WV_12D_CD1206-S015':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS85488@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins85488@discrete.\diode.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins85488@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE_DO21_M7':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS117691@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins117691@discrete.\diode.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins117691@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_0805RF_WV_12D_GREEN ON':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118372@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118372@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118372@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_0805RF_WV_12D_YELLOW':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118482@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118482@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118482@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_0805RF_WV_12D_RED':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70905@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70905@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70905@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_0805RF_WV_12D_GREEN':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70541@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70541@discrete.\led.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70541@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F2 'FUSE_FUSE_MF-MSMF050-2 500MA':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS74227@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins74227@discrete.\fuse.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins74227@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 3X2/SM_ISCP_ICSP':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS84309@CONNECTOR.HEADER 3X2/SM.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins84309@connector.\header 3x2/sm.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins84309@connector.\header 3x2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 4_4X1CONN_COMM HEADER':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS173766@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins173766@connector.\header 4.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins173766@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER 5_5X1CONN_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS196358@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins196358@connector.\header 5.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins196358@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER 5_5X1CONN_EXTRA DIGITAL':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS213046@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins213046@connector.\header 5.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins213046@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 5_5X1CONN_EXTRA ANALOG P':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS213068@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins213068@connector.\header 5.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins213068@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_2X1CONN_CON2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63775@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63775@connector.\con2.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63775@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_2X1CONN_CON2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63715@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63715@connector.\con2.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63715@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON2_2X1CONN_CON2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63567@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63567@connector.\con2.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63567@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 2X2/SM_2X2CON_HEADER 2X2':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS69941@CONNECTOR.HEADER 2X2/SM.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins69941@connector.\header 2x2/sm.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins69941@connector.\header 2x2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'JUMPER_0603RF_WV_12D_RESET-EN':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70301@CONNECTOR.JUMPER.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70301@connector.\jumper.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70301@connector.\jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 3X2/SM_ISCP_HEADER 3X2/S':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS68245@CONNECTOR.HEADER 3X2/SM.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins68245@connector.\header 3x2/sm.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins68245@connector.\header 3x2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_SOT23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS64035@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins64035@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins64035@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOSFET N_SOT23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS113159@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins113159@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins113159@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET N_SOT23_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS113399@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins113399@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins113399@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET P_SOT23_FDN340P':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118688@DISCRETE.MOSFET P.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118688@discrete.\mosfet p.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118688@discrete.\mosfet p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS85437@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins85437@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins85437@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63132@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63132@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63132@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63092@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63092@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63092@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63755@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63755@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63755@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63607@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63607@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63607@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0805RF_WV_12D_1M':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS75245@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins75245@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins75245@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS113143@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins113143@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins113143@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS113127@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins113127@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins113127@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS113383@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins113383@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins113383@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS113367@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins113367@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins113367@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118388@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118388@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118388@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118502@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118502@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118502@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118574@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118574@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118574@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118596@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118596@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118596@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_0805RF_WV_12D_22R':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS73872@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins73872@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins73872@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_0805RF_WV_12D_22R':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS73854@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins73854@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins73854@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS119863@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins119863@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins119863@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_0805RF_WV_12D_1M':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS67447@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins67447@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins67447@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS71273@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins71273@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins71273@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS71245@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins71245@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins71245@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70929@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70929@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70929@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70608@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70608@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70608@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS70151@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins70151@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins70151@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS68415@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins68415@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins68415@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_0805RF_WV_12D_768':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS186595@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins186595@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins186595@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS119886@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins119886@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins119886@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_0805RF_WV_12D_750':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS197395@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins197395@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins197395@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0805RF_WV_12D_2.2K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS94842@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins94842@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins94842@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0805RF_WV_12D_2.2K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS94867@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins94867@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins94867@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0805RF_WV_12D_1K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS95876@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins95876@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins95876@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63052@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63052@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63052@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0805RF_WV_12D_10K':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63192@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63192@discrete.\r.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63192@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT1 'THERMISTOR_2X1CONN_EC95F':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63172@DISCRETE.THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63172@discrete.\thermistor.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63172@discrete.\thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT2 'THERMISTOR_2X1CONN_EC95F':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63072@DISCRETE.THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63072@discrete.\thermistor.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63072@discrete.\thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT3 'THERMISTOR_2X1CONN_EC95F':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63112@DISCRETE.THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63112@discrete.\thermistor.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63112@discrete.\thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT4 'THERMISTOR_2X1CONN_EC95F':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63152@DISCRETE.THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63152@discrete.\thermistor.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63152@discrete.\thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RV1 'VARISTOR_0603RF_WV_12D_CG0603ML':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS74369@DISCRETE.VARISTOR.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins74369@discrete.\varistor.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins74369@discrete.\varistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RV2 'VARISTOR_0603RF_WV_12D_CG0603ML':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS74353@DISCRETE.VARISTOR.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins74353@discrete.\varistor.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins74353@discrete.\varistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST-2/SM_SMDPB_S':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS84021@DISCRETE.SW PUSHBUTTON-SPST-2/SM.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins84021@discrete.\sw pushbutton-spst-2/sm.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins84021@discrete.\sw pushbutton-spst-2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ATMEGA2560-TQFP_1_MEGA2560_ATME':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS593@MEGAHEATV2.ATMEGA2560-TQFP_1.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins593@megaheatv2.\atmega2560-tqfp_1.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins593@megaheatv2.\atmega2560-tqfp_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'MIC5225-3.3YM5_DBV0005A_M_ MIC':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63875@CREATED. MIC5225-3.3YM5.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63875@created.(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63875@created.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'ESP8266_0_ESP8266_MODULE_ESP826':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS97177@MEGAHEATV2.ESP8266_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins97177@megaheatv2.\esp8266_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins97177@megaheatv2.\esp8266_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'ADXL345_ADXL345_ADXL345':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS98405@CREATED.ADXL345.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins98405@created.\adxl345.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins98405@created.\adxl345.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'NCP1117ST50_0_DCY4_NCP1117ST50T':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS117781@MEGAHEATV2.NCP1117ST50_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins117781@megaheatv2.\ncp1117st50_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins117781@megaheatv2.\ncp1117st50_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'LP2985_0_DBV5_LP2985':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118728@MEGAHEATV2.LP2985_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118728@megaheatv2.\lp2985_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118728@megaheatv2.\lp2985_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'LMV358_MUA_LMV358IDGKR':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS118420@CREATED.LMV358.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins118420@created.\lmv358.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins118420@created.\lmv358.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'ATMEGA16U2-TQFP_1_ATMEGA16U2_AT':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS67186@MEGAHEATV2.ATMEGA16U2-TQFP_1.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins67186@megaheatv2.\atmega16u2-tqfp_1.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins67186@megaheatv2.\atmega16u2-tqfp_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'DS1307_SOIC8_DS1307':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS94425@CREATED.DS1307.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins94425@created.\ds1307.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins94425@created.\ds1307.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'MCP4131_SOIC8_MCP4131':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS196401@LIBRARY1.MCP4131.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins196401@library1.\mcp4131.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins196401@library1.\mcp4131.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'CD74HC4050M_0_SOIC16_CD74HC4050':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS95321@MEGAHEATV2.CD74HC4050M_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins95321@megaheatv2.\cd74hc4050m_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins95321@megaheatv2.\cd74hc4050m_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LP2983 SOT-23_MF05A_LP2983':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS96475@CREATED.LP2983 SOT-23.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins96475@created.\lp2983 sot-23.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins96475@created.\lp2983 sot-23.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MAX31850_0_TDFN10_MAX31850':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63907@MEGAHEATV2.MAX31850_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63907@megaheatv2.\max31850_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63907@megaheatv2.\max31850_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'MIC5225-3.3YM5_DBV0005A_M_ MIC':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63983@CREATED. MIC5225-3.3YM5.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63983@created.(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63983@created.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'MAX31850_0_TDFN10_MAX31850':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS64079@MEGAHEATV2.MAX31850_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins64079@megaheatv2.\max31850_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins64079@megaheatv2.\max31850_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MIC5225-3.3YM5_DBV0005A_M_ MIC':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63683@CREATED. MIC5225-3.3YM5.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63683@created.(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63683@created.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'MAX31850_0_TDFN10_MAX31850':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS63627@MEGAHEATV2.MAX31850_0.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins63627@megaheatv2.\max31850_0.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins63627@megaheatv2.\max31850_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSC6/SM_CSTCE16M0V53_CSTCE16M0V':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS75149@DISCRETE.OSC6/SM.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins75149@discrete.\osc6/sm.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins75149@discrete.\osc6/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_ECS3X8_32.768':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS94548@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins94548@discrete.\crystal.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins94548@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y4 'XM/SM_ECX64A_16MHZ':;
+
+SECTION_NUMBER 1
+ '@MEGAHEATV2.SCHEMATIC 1(SCH_1):INS67422@DISCRETE.XM/SM.NORMAL(CHIPS)':
+ C_PATH='@megaheatv2.\schematic 1\(sch_1):ins67422@discrete.\xm/sm.normal\(chips)',
+ P_PATH='@megaheatv2.\schematic 1\(sch_1):page1_ins67422@discrete.\xm/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

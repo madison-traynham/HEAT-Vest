@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ATMega2560.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Mar 11 23:29:47 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Madison/Desktop/MegaHeatv2/Drawings
+    Name      = atmega2560.psm
+    User      = Madison
+    Machine   = MADISON-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

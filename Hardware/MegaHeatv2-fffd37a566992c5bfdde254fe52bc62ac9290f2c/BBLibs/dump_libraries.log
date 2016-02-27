@@ -1,0 +1,809 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Mar 12 11:49:01 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/Madison/Desktop/BeagleBone_Black_RevB6_nologo.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  P35X1R being dumped.
+
+  P25MMC being dumped.
+
+  18RD8-1 being dumped.
+
+  RD51-85 being dumped.
+
+  138S50D being dumped.
+
+  125RD96 being dumped.
+
+  70X100R being dumped.
+
+  24X120R being dumped.
+
+  90X100R being dumped.
+
+  90X110R being dumped.
+
+  95X65-H being dumped.
+
+  40X125R being dumped.
+
+  83X110R being dumped.
+
+  80X150R being dumped.
+
+  65X120R being dumped.
+
+  83X220R being dumped.
+
+  90X150R being dumped.
+
+  85X110R being dumped.
+
+  70X134R being dumped.
+
+  VIABGA being dumped.
+
+  95X110R being dumped.
+
+  67X130R being dumped.
+
+  200C110D being dumped.
+
+  85X140R being dumped.
+
+  95X130R being dumped.
+
+  75X105R being dumped.
+
+  78X130R being dumped.
+
+  S65X125 being dumped.
+
+  150C100D being dumped.
+
+  1P15X1P5R_MM being dumped.
+
+  28X165R being dumped.
+
+  98X114R being dumped.
+
+  200C125D being dumped.
+
+  1P38X2P4R_MM being dumped.
+
+  250C118D being dumped.
+
+  180C128D being dumped.
+
+  24X86_OBLONG being dumped.
+
+  12C6DNM being dumped.
+
+  * being dumped.
+
+ERROR:   creating padstack: *
+
+  RD71-100 being dumped.
+
+  RD63-100 being dumped.
+
+  150RD110 being dumped.
+
+  14X33P5REC-SP being dumped.
+
+  40RD28-1 being dumped.
+
+  10X50OV being dumped.
+
+  10X33OV being dumped.
+
+  70X10OV being dumped.
+
+  270RD150 being dumped.
+
+  2P05X4R being dumped.
+
+  NO2_116 being dumped.
+
+  12X34OV being dumped.
+
+  11X35OV being dumped.
+
+  40X70OV being dumped.
+
+  12X80OV being dumped.
+
+  14X70OV being dumped.
+
+  16X60OV being dumped.
+
+  2X3OB_P55X1P55SLOT being dumped.
+
+  35X60OV being dumped.
+
+  NO0_089 being dumped.
+
+  8X40REC being dumped.
+
+  35X45OV being dumped.
+
+  200X200R being dumped.
+
+  25X75OV being dumped.
+
+  100X150R being dumped.
+
+  130X130R being dumped.
+
+  110X115R being dumped.
+
+  105X142R being dumped.
+
+  157X181R being dumped.
+
+  ID-COMP being dumped.
+
+  P3XP85R being dumped.
+
+  RD128-160 being dumped.
+
+  12X30REC being dumped.
+
+  10X33REC being dumped.
+
+  30X50REC being dumped.
+
+  10X25REC being dumped.
+
+  20X35REC being dumped.
+
+  25X50REC being dumped.
+
+  11X28REC being dumped.
+
+  50X80REC being dumped.
+
+  16X25REC being dumped.
+
+  44X60REC being dumped.
+
+  14X18REC being dumped.
+
+  11X75REC being dumped.
+
+  40X75REC being dumped.
+
+  18X26REC being dumped.
+
+  83X70REC being dumped.
+
+  28X44REC being dumped.
+
+  16X65REC being dumped.
+
+  40X86REC being dumped.
+
+  43X47REC being dumped.
+
+  18X36REC being dumped.
+
+  51X67REC being dumped.
+
+  20X89REC being dumped.
+
+  36X48REC being dumped.
+
+  27X39REC being dumped.
+
+  24X79REC being dumped.
+
+  94X63REC being dumped.
+
+  71X87REC being dumped.
+
+  35X88REC being dumped.
+
+  35X79REC being dumped.
+
+  SMD32_40 being dumped.
+
+  SMD25_20 being dumped.
+
+  SMD35_32 being dumped.
+
+  SMD45_50 being dumped.
+
+  SMT25X20 being dumped.
+
+  P5X2P25R being dumped.
+
+  P23XP85R being dumped.
+
+  70X120REC being dumped.
+
+  42X130REC being dumped.
+
+  120X80REC being dumped.
+
+  20RD40FID being dumped.
+
+  115X70REC being dumped.
+
+  64X112REC being dumped.
+
+  110X94REC being dumped.
+
+  115X90REC being dumped.
+
+  65X125REC being dumped.
+
+  81X118REC being dumped.
+
+  10C being dumped.
+
+  12C being dumped.
+
+  28X165REC being dumped.
+
+  81X157REC being dumped.
+
+  50C being dumped.
+
+  1P4X3_MM being dumped.
+
+  14C being dumped.
+
+  60C being dumped.
+
+  16C being dumped.
+
+  2P05X3P5R being dumped.
+
+  2_45MM_SQ_NO_PASTE being dumped.
+
+  P3XP6MMR being dumped.
+
+  105X100REC being dumped.
+
+  180X120REC being dumped.
+
+  18RD8_BGA being dumped.
+
+  425X410REC being dumped.
+
+  FID being dumped.
+
+  35X91SLOT being dumped.
+
+  SMD203_203 being dumped.
+
+  60X86SLOT being dumped.
+
+  SMD136_136 being dumped.
+
+  22RD being dumped.
+
+  MH33 being dumped.
+
+  25RD being dumped.
+
+  35RD being dumped.
+
+  MH63 being dumped.
+
+  40X100SLOT being dumped.
+
+  4_05MM_SQ being dumped.
+
+  31SQ being dumped.
+
+  80SQ being dumped.
+
+  12X51RECSP being dumped.
+
+  45SQ being dumped.
+
+  59SQ being dumped.
+
+  78SQ being dumped.
+
+  97SQ being dumped.
+
+  12X20 being dumped.
+
+  P3XP8R_MM being dumped.
+
+  SMD33_10_F being dumped.
+
+  SMD10_33_F being dumped.
+
+  10X50 being dumped.
+
+  60X90R_31X59SLOT being dumped.
+
+  P8XP8R_MM being dumped.
+
+  _2MMX_8MM being dumped.
+
+  43X41 being dumped.
+
+  _4MMX_9MM being dumped.
+
+  55X61 being dumped.
+
+  24X86 being dumped.
+
+  1P45X2R_MM being dumped.
+
+  1P4X1P9_MM being dumped.
+
+  1P4X2P8_MM being dumped.
+
+  120X040SLOT being dumped.
+
+  140X040SLOT being dumped.
+
+  100SQ being dumped.
+
+  18RD8 being dumped.
+
+  FUD_40C118M being dumped.
+
+  134SQ being dumped.
+
+  415SQ being dumped.
+
+  244SQ being dumped.
+
+  280SQ being dumped.
+
+  14SMD being dumped.
+
+  MTG30 being dumped.
+
+  80X150R_40X90SLOT being dumped.
+
+  P5X1P4R_MM being dumped.
+
+  MTG51 being dumped.
+
+  P25XP6R_MM being dumped.
+
+  MTG35 being dumped.
+
+  50C31D being dumped.
+
+  MTG62 being dumped.
+
+  MTG71 being dumped.
+
+  24C12D being dumped.
+
+  P8X1P5R_MM being dumped.
+
+  60C40D being dumped.
+
+  MTG63 being dumped.
+
+  P8X1P6R_MM being dumped.
+
+  60C32D being dumped.
+
+  MTG28 being dumped.
+
+  MTG38 being dumped.
+
+  40C26D being dumped.
+
+  60C33D being dumped.
+
+  MTG39 being dumped.
+
+  70C42D being dumped.
+
+  80X135R_40X95SLOT being dumped.
+
+  MTG67 being dumped.
+
+  80C42D being dumped.
+
+  55C32D being dumped.
+
+  80C43D being dumped.
+
+  MTG95 being dumped.
+
+  28X113 being dumped.
+
+  90C52D being dumped.
+
+  60C28D being dumped.
+
+  60C38D being dumped.
+
+  80C63D being dumped.
+
+  65C43D being dumped.
+
+  55C35D being dumped.
+
+  90C63D being dumped.
+
+  80C47D being dumped.
+
+  55C36D being dumped.
+
+  40RD20 being dumped.
+
+  90C48D being dumped.
+
+  90C75D being dumped.
+
+  1P55X2P1_MM being dumped.
+
+  P3X1R being dumped.
+
+  60RD40 being dumped.
+
+  60S40D being dumped.
+
+  60S32D being dumped.
+
+  80RD40 being dumped.
+
+  25RD15 being dumped.
+
+  80RD50 being dumped.
+
+  VLCF5020T_P being dumped.
+
+  70S42D being dumped.
+
+  90RD60 being dumped.
+
+  65RD40 being dumped.
+
+  1P55X2P8_MM being dumped.
+
+  90RD70 being dumped.
+
+  55S32D being dumped.
+
+  45RD26 being dumped.
+
+  60S28D being dumped.
+
+  60RD39 being dumped.
+
+  65RD43 being dumped.
+
+  60S38D being dumped.
+
+  45RD28 being dumped.
+
+  70RD48 being dumped.
+
+  65S43D being dumped.
+
+  55S35D being dumped.
+
+  90S63D being dumped.
+
+  85RD52 being dumped.
+
+  55S36D being dumped.
+
+  56RD38 being dumped.
+
+  60SQ40 being dumped.
+
+  85RD67 being dumped.
+
+  11X40R being dumped.
+
+  80SQ50 being dumped.
+
+  30X40R being dumped.
+
+  11X34R being dumped.
+
+  30X16R being dumped.
+
+  40X60R being dumped.
+
+  31X60R being dumped.
+
+  25X40R being dumped.
+
+  12X35R being dumped.
+
+  31X43R being dumped.
+
+  50X60R being dumped.
+
+  35X40R being dumped.
+
+  60X60R being dumped.
+
+  12X63R being dumped.
+
+  40X90R being dumped.
+
+  65X12R being dumped.
+
+  40X55R being dumped.
+
+  45X50R being dumped.
+
+  63X50R being dumped.
+
+  28X41R being dumped.
+
+  25X80R being dumped.
+
+  75X12R being dumped.
+
+  45X60R being dumped.
+
+  60X63R being dumped.
+
+  56SQ38 being dumped.
+
+  80X80R being dumped.
+
+  70X90R being dumped.
+
+  010C20D being dumped.
+
+  1P2X1P4R_MM being dumped.
+
+  1P3X1P3R_MM being dumped.
+
+  31X67R being dumped.
+
+  55X70R being dumped.
+
+  1P3X1P4R_MM being dumped.
+
+  50X75R being dumped.
+
+  FUD_40C118MA being dumped.
+
+  1P3X1P5R_MM being dumped.
+
+  28X35R being dumped.
+
+  45X55R being dumped.
+
+  80X150R_31X118SLOT being dumped.
+
+  150X80R_118X31SLOT being dumped.
+
+  75X25R being dumped.
+
+  BALL12 being dumped.
+
+  53X75R being dumped.
+
+  70X85R being dumped.
+
+  60X95R being dumped.
+
+  1P5X1P6R_MM being dumped.
+
+  010C43D being dumped.
+
+  1P4X1P7R_MM being dumped.
+
+  45X75R being dumped.
+
+  MTG125 being dumped.
+
+  100C62D being dumped.
+
+  47X47R being dumped.
+
+  1P5X1P7R_MM being dumped.
+
+  13P8RD being dumped.
+
+  1_4MMX2_2MM being dumped.
+
+  80X165R_40X126SLOT being dumped.
+
+  165X80R_126X40SLOT being dumped.
+
+  80X180R_40X138SLOT being dumped.
+
+  47X59R being dumped.
+
+  MTG128 being dumped.
+
+  65X95R being dumped.
+
+  100C75D being dumped.
+
+  P8X2P35R_MM being dumped.
+
+  17P7RD being dumped.
+
+  150C80D being dumped.
+
+  MTG085 being dumped.
+
+  75X87R being dumped.
+
+  125C52D being dumped.
+
+  1_3MMX1_9MM being dumped.
+
+  94X97R being dumped.
+
+  125C71D being dumped.
+
+  125C63D being dumped.
+
+  MTG187 being dumped.
+
+  1_9MMX2_4MM being dumped.
+
+  125C91D being dumped.
+
+  78X89R being dumped.
+
+  65X100OB_26X60SLOT being dumped.
+
+  125C75D being dumped.
+
+  RD40-80 being dumped.
+
+  _28MMX_85MM being dumped.
+
+  70X130OB_40X98SLOT being dumped.
+
+  P23X1R being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  95x64-h being dumped.
+
+  vlcf5020t_pad being dumped.
+
+  shape33_10 being dumped.
+
+  shape10_33 being dumped.
+
+  shape38_15 being dumped.
+
+  shape15_38 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  am33xx_15x15 being dumped.
+
+  sd-micro-scha5b0300 being dumped.
+
+  rd205smd_250d being dumped.
+
+  sot23-5 being dumped.
+
+  dck5_2p15x1p4 being dumped.
+
+  tp1-8040 being dumped.
+
+  rj45-7499010211a being dumped.
+
+  tp60c33d being dumped.
+
+  tssop10 being dumped.
+
+  led_0603 being dumped.
+
+  sm-7351-ind-0805 being dumped.
+
+  usb5mini_4shielded_smd-5 being dumped.
+
+  sm-7351-res-0402 being dumped.
+
+  402 being dumped.
+
+  qfn32_5x5mm_ep3p3mm being dumped.
+
+  u_8_dcu being dumped.
+
+  dgn-16x60 being dumped.
+
+  805 being dumped.
+
+  so8-25x75 being dumped.
+
+  u_6_dry being dumped.
+
+  bga153_p14_p5_11p5x13 being dumped.
+
+  header10x2_smd being dumped.
+
+  mtgh200c125d_pl being dumped.
+
+  0402 being dumped.
+
+  2520 being dumped.
+
+  sop8_dct being dumped.
+
+  u_48_rsl being dumped.
+
+  xtal4_126-216smd being dumped.
+
+  usb_a_sh being dumped.
+
+  sw4smd_63x161ls being dumped.
+
+  tp60c_smd being dumped.
+
+  conn3-pwr-pj102a being dumped.
+
+  header23x2 being dumped.
+
+  osc4_61x65ls_79x98smd being dumped.
+
+  sip6 being dumped.
+
+  polysw200-5638-310 being dumped.
+
+  smini6-f3-b being dumped.
+
+  bga96_t9_p8_9x14 being dumped.
+
+  qfn64s9x9p5 being dumped.
+
+  sod323 being dumped.
+
+  xtal150smd_125x196 being dumped.
+
+  fud40c being dumped.
+
+  conn19_hdmi being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  creative_commons_note being dumped.
+
+
+  *** Creating format symbols (.dra and .bsm) ***
+
+  sheet2 being dumped.
+
+  format being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           1
+
+Number of padstacks dumped:              328
+Number of package symbols dumped:         43
+Number of mechanical symbols dumped:       1
+Number of format symbols dumped:           2
+Number of shape symbols dumped:            6
+
+Total number of symbols dumped:           52
+*****************************************************
+

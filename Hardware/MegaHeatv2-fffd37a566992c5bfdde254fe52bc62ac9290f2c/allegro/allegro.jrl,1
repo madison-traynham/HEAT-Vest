@@ -1,0 +1,16 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Wed Mar 18 21:36:31 2015
+\t (00:00:02)         Host=MADISON-PC User=Madison Pid=8328 CPUs=4
+\t (00:00:02) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/USERS/MADISON/DESKTOP/MEGAHEATV2/allegro/MEGAHEATV2.brd
+\i (00:00:02) trapsize 10566
+\i (00:00:02) trapsize 10372
+\i (00:00:02) trapsize 10599
+\i (00:00:02) trapsize 10801
+\i (00:00:02) trapsize 13682
+\i (00:00:02) placementedit 
+\i (00:00:06) exit 
+\e (00:00:06) Do you want to save the changes you made to MEGAHEATV2.brd?
+\i (00:00:08) fillin no 
+\t (00:00:09)     Journal end - Wed Mar 18 21:36:38 2015

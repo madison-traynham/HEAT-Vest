@@ -1,0 +1,222 @@
+(ExpressProject "megaHeatv2"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\created.OLB"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\megaheatv2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\MADISON\DROPBOX\MEGAHEATV2-FFFD37A566992C5BFDDE254FE52BC62AC9290F2C\ALLEGRO")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\MEGAHEATV2.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("HEADER 5"
+      (FullPartName "HEADER 5.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\PROGRAM FILES\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MCP4131
+      (FullPartName "MCP4131.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CR1220Holder
+      (FullPartName "CR1220Holder.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    ("USB_B MINI"
+      (FullPartName "USB_B MINI.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (USB_B
+      (FullPartName "USB_B.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 9"
+      (FullPartName "HEADER 9.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR NON-POL"
+      (FullPartName "CAPACITOR NON-POL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (USB-B_Female
+      (FullPartName "USB-B_Female.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (FT232RL
+      (FullPartName "FT232RL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (RMCM01
+      (FullPartName "RMCM01.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (PIC16F913
+      (FullPartName "PIC16F913.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (ADXL345
+      (FullPartName "ADXL345.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (ESP8266
+      (FullPartName "ESP8266.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    ("LP2983 SOT-23"
+      (FullPartName "LP2983 SOT-23.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (CD74HC4050M
+      (FullPartName "CD74HC4050M.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (uSD
+      (FullPartName "uSD.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CREATED.OLB")
+      (DeviceIndex "0"))
+    (BATTERY
+      (FullPartName "BATTERY.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\megaheatv2.dsn")
+      (Path "Design Resources" ".\megaheatv2.dsn" "Schematic 1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\megaheatv2.dsn" "Schematic 1"
+         "P09_Accelerometer"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 431"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1603 50 534")
+        (Scroll "-267 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MADISON\DROPBOX\SPRING 2015\USAFRL\SD2_USAFRL_COMP_S15(FINAL COMPREHESIVE SUBMISSION)\DRAWINGS\ELECTRICAL\MEGAHEATV2-FFFD37A566992C5BFDDE254FE52BC62AC9290F2C\MEGAHEATV2.DSN")
+      (Schematic "Schematic 1")
+      (Page "P10_Power_Regulation"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1628 75 559")
+        (Scroll "-228 0")
+        (Zoom "69")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MADISON\DROPBOX\SPRING 2015\USAFRL\SD2_USAFRL_COMP_S15(FINAL COMPREHESIVE SUBMISSION)\DRAWINGS\ELECTRICAL\MEGAHEATV2-FFFD37A566992C5BFDDE254FE52BC62AC9290F2C\MEGAHEATV2.DSN")
+      (Schematic "Schematic 1")
+      (Page "P02_ATmega2560"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1653 100 584")
+        (Scroll "-267 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MADISON\DROPBOX\SPRING 2015\USAFRL\SD2_USAFRL_COMP_S15(FINAL COMPREHESIVE SUBMISSION)\DRAWINGS\ELECTRICAL\MEGAHEATV2-FFFD37A566992C5BFDDE254FE52BC62AC9290F2C\MEGAHEATV2.DSN")
+      (Schematic "Schematic 1")
+      (Page "P06_Thermocouples"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1678 125 609")
+        (Scroll "-267 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MADISON\DROPBOX\SPRING 2015\USAFRL\SD2_USAFRL_COMP_S15(FINAL COMPREHESIVE SUBMISSION)\DRAWINGS\ELECTRICAL\MEGAHEATV2-FFFD37A566992C5BFDDE254FE52BC62AC9290F2C\MEGAHEATV2.DSN")
+      (Schematic "Schematic 1")
+      (Page "P05_Thermistors"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 150 1703 150 634")
+        (Scroll "-443 -7")
+        (Zoom "92")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MADISON\DROPBOX\SPRING 2015\USAFRL\SD2_USAFRL_COMP_S15(FINAL COMPREHESIVE SUBMISSION)\DRAWINGS\ELECTRICAL\MEGAHEATV2-FFFD37A566992C5BFDDE254FE52BC62AC9290F2C\MEGAHEATV2.DSN")
+      (Schematic "Schematic 1")
+      (Page "P09_Accelerometer")))
+  (MPSSessionName "Madison")
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))

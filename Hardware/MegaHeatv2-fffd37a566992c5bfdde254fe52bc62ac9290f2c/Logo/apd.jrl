@@ -1,0 +1,19 @@
+\t (00:00:55) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:55)     Journal start - Thu Mar 19 23:27:16 2015
+\t (00:00:55)         Host=MADISON-PC User=Madison Pid=9872 CPUs=4
+\t (00:00:55) 
+\t (00:00:55) Starting new design...
+\i (00:00:56) trapsize 343
+\i (00:00:56) trapsize 343
+\i (00:00:57) set_default_layers 
+\i (00:01:12) setwindow form.ciopNew
+\i (00:01:12) FORM ciopNew ok  
+\w (00:01:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:13) setwindow pcb
+\i (00:01:13) generaledit 
+\i (00:01:24) pick grid 3.927 -8.100
+\t (00:01:24) last pick:  3.900  -8.100
+\i (00:01:25) exit 
+\e (00:01:25) Do you want to save the changes you made to logo.dra?
+\i (00:01:26) fillin no 
+\t (00:01:27)     Journal end - Thu Mar 19 23:27:48 2015
